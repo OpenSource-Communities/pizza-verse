@@ -6,6 +6,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 
 ## Table of Contents
 
+- [Desi Pizza](#desi-pizza)
 - [Margherita Pizza](#margherita-pizza)
 - [Pepperoni Pizza](#pepperoni-pizza)
 - [4 Cheese Pizza🧀](#4-cheese-pizza)
@@ -17,9 +18,15 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Zanzibar Pizza](#zanzibar-pizza)
 - [Sisig Pizza](#sisig-pizza)
 
+
+## Desi Pizza
+A spicy Indian twist on the classic pizza, Desi Pizza bursts with bold flavors. Topped with masala sauce, paneer or chicken tikka, crunchy veggies, melty cheese, and a dash of chaat masala — it’s a delicious fusion of street food and comfort in every bite.
+
+
 ### Margherita Pizza
 
 A timeless classic, Margherita pizza showcases simple and fresh ingredients. The combination of tomato sauce, mozzarella cheese, and fresh basil leaves is a dependable go-to.
+
 
 ### Pepperoni Pizza
 
@@ -45,6 +52,73 @@ Chicken Tikka Masala Pizza is a cheesy Indian pizza topped with delicious chicke
 
 Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania.
 Also known as “Stuffed Pizza” to some, this pizza is essentially a giant (and delicious) grilled cheese sandwich! It is flavorful to the extreme, great for gatherings and parties, and very versatile. It also happens to be very easy to make from simple ingredients from the grocery store.
+
+# Desi Pizza
+
+![Desi Pizza](image/desi-pizza.jpg)
+
+ ## 🧄 Ingredients:
+  ### For the base (you can use store-bought pizza base or make your own):
+
+-2 cups all-purpose flour
+-1 tsp dry yeast
+-1 tsp sugar
+-½ tsp salt
+-1 tbsp oil
+-Warm water (to knead)
+
+### For the sauce (Indian twist):
+
+-1 tbsp oil
+-1 small onion (finely chopped)
+-2-3 garlic cloves (minced)
+-2 medium tomatoes (pureed)
+-1 tbsp tomato ketchup
+-1 tsp red chili powder
+-½ tsp garam masala
+-Salt to taste
+-Fresh coriander (optional)
+-Toppings (adjust to your liking):
+-Onion slices
+-Capsicum (bell peppers) – red, green, yellow
+-Tomato slices
+-Sweet corn
+-Paneer cubes (marinated in tandoori masala or plain)
+-Green chilies (optional, for spice)
+-lack olives (optional)
+-Grated mozzarella cheese
+-Chaat masala (to sprinkle on top)
+-Fresh coriander or mint leaves (for garnish)
+
+## 🍽️ Method:
+1. Make the Dough (if homemade):
+Activate yeast: mix yeast, sugar, and warm water. Let it sit for 10 minutes till frothy.
+In a large bowl, mix flour, salt, oil, and activated yeast.
+Knead into a soft dough. Cover and rest for 1–2 hours until it doubles in size.
+
+2. Prepare the Sauce:
+Heat oil in a pan. Sauté garlic and onions till golden.
+Add tomato puree, ketchup, chili powder, garam masala, and salt.
+Cook until thick. Add chopped coriander for extra flavor.
+
+3. Prep the Toppings:
+If using paneer, marinate in yogurt + tandoori masala + lemon juice for 15 minutes, then lightly pan-fry.
+Slice all veggies.
+
+4. Assemble the Pizza:
+Preheat oven to 200°C (about 390°F).
+Roll out dough or use the base. Spread the Indian-style sauce.
+Add cheese, then toppings – onion, capsicum, corn, paneer, etc.
+Sprinkle some chaat masala for that tangy Indian flavor.
+
+5. Bake:
+Bake in the oven for 12–15 minutes or until the cheese is bubbly and the crust is golden.
+
+6. Garnish & Serve:
+Add fresh coriander or mint, and a drizzle of green chutney or mayo (optional).
+Serve hot with ketchup or mint chutney on the side.
+
+
 
 # Margherita Pizza (Michelin Quality)
 
