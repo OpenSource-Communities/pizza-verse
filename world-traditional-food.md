@@ -45,6 +45,14 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 ## Europe
 
 ## Africa
+### Nigeria
+
+#### Amala
+Àmàlà is a staple swallow food originating from Nigeria created by the Yoruba ethnic group of southwestern Nigeria and other parts of Yorubaland. It is a popular side dish served with ewédú and gbẹ̀gìrì (black-eyed beans soup), but is also served with a variety of other ọbè (soups), such as ẹ̀fọ́, ilá, and ogbono.[[1]](https://en.wikipedia.org/wiki/Amala_(food))
+
+<img src="images/Amala_with_Ewedu.jpg" width="400" alt="A plate of Amala with ewedu">
+
+**Image source:** shola oshinowo, [*Amala with Ewedu*](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Asia
 
