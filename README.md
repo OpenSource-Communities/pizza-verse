@@ -41,7 +41,7 @@ Follow the steps below to get started:
 4. You can now add a new pizza fact or trivia to the [`pizza-facts-&-trivia.md`](https://github.com/Virtual-Coffee/pizza-verse/blob/main/pizza-facts-%26-trivia.md), a new style of pizza to the [`regional-pizza.md`](https://github.com/Virtual-Coffee/pizza-verse/blob/main/regional-pizza.md), a new pizza recipe to the [`pizza-recipes.md`](https://github.com/Virtual-Coffee/pizza-verse/blob/main/pizza-recipes.md), and a traditional food to the [`world-traditional-food.md`](https://github.com/Virtual-Coffee/pizza-verse/blob/main/world-traditional-food.md) file. Remember, you may only submit **one** new item in a file.
 5. Follow our [`style-guide.md`](https://github.com/Virtual-Coffee/pizza-verse/blob/main/style-guide.md) to format your content.
 6. Once you're done, [add](https://github.com/git-guides/git-add#common-usages-and-options-for-git-add) and [commit](https://github.com/git-guides/git-commit#common-usages-and-options-for-git-commit) your changes, then [push](https://github.com/git-guides/git-push#common-usages-and-options-for-git-push) them to your forked repository.
-7. Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) to have your contribution reviewed and considered for merging into the main repository.
+7. Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) to have your contribution reviewed and considered for merging into the main branch.
 8. Engage with other contributors and maintainers through comments and discussions.
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
@@ -103,14 +103,14 @@ Follow these steps to resolve the merge conflicts in this repository:
 
 <img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200" alt="rocket gif"/>
 
-All contributors are required to abide by the [Code of Conduct](https://virtualcoffee.io/code-of-conduct).
+All contributors are required to abide by our [Code of Conduct](https://virtualcoffee.io/code-of-conduct).
 
 To ensure a smooth and enjoyable experience for everyone, please adhere to the following guidelines when contributing to this repository:
 
 - Keep the content **relevant** to each section.
 - Ensure your content is **family-friendly** and suitable for all audiences.
 - Provide **credible sources** for any facts or information you include.
-- Respect the **[Code of Conduct](ttps://virtualcoffee.io/code-of-conduct)** and be kind and inclusive to others.
+- Respect our **[Code of Conduct](ttps://virtualcoffee.io/code-of-conduct)** and be kind and inclusive to others.
 - Please check out the [How to Contribute](#how-to-contribute) section and [Style Guide](style-guide.md) page for guidelines about how to contribute.
 - Feel free to comment on and discuss other people's contributions, but keep the discussions **constructive** and respectful.
 
