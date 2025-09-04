@@ -122,4 +122,4 @@ If you have questions or need help, feel free to drop them in the [discussion bo
 
 ## ⚖️ LICENSE
 
-MIT
+MIT © [Open Source Communities](LICENSE)
