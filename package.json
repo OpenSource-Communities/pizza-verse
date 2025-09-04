@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Virtual-Coffee/pizza-verse"
+    "url": "https://github.com/OpenSource-Communities/pizza-verse"
   },
   "keywords": [
     "open-source"
@@ -16,7 +16,7 @@
   "author": "BekahHW",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Virtual-Coffee/pizza-verse/issues"
+    "url": "https://github.com/OpenSource-Communities/pizza-verse/issues"
   },
-  "homepage": "https://github.com/Virtual-Coffee/pizza-verse#readme"
+  "homepage": "https://github.com/OpenSource-Communities/pizza-verse#readme"
 }
