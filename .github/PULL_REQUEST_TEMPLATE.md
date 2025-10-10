@@ -16,7 +16,7 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 ## Related Tickets & Documents
 
 <!--
-Please use this format link issue numbers: Fixes/Relates to #123
+Please use this format link issue numbers: Relates to #123
 https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
 -->
 
@@ -37,8 +37,9 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
   commits if your PR already received reviews or comments.
 
   Before submitting a Pull Request, please ensure you've done the following:
-  - 📖 Read the Open Sauced Contributing Guide: https://github.com/open-sauced/.github/blob/main/CONTRIBUTING.md.
-  - 📖 Read the Open Sauced Code of Conduct: https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md.
+  - 📖 Read the How to Contribute section: https://github.com/OpenSource-Communities/pizza-verse/blob/main/README.md#how-to-contribute
+  - 📖 Read the Style Guide: https://github.com/OpenSource-Communities/pizza-verse/blob/main/style-guide.md
+  - 📖 Read the Code of Conduct: https://github.com/OpenSource-Communities/.github/blob/main/CODE_OF_CONDUCT.md.
   - 👷‍♀️ Create small PRs. In most cases, this will be possible.
   - 📝 Use descriptive commit messages.
   - 📗 Update any related documentation and include any relevant screenshots.

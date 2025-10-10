@@ -1,16 +1,10 @@
-<div align="center">
-  <br>
-  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 Pizza Lovers Repository 🍕</h1>
-  <strong>Welcome to OpenSauced's Pizza Lovers Repository!</strong>
-</div>
-<br>
+# Pizza Verse Repository
 
-# Pizza Lovers Repository
+**Welcome to the Pizza Verse Repository!**
 
 ## Introduction
 
-The Pizza Lovers Repository is a collaborative project where we can come together and contribute pizza-related content. Whether you have a fantastic pizza recipe, an interesting pizza fact, or just want to share your opinions on the best pizza toppings, this repository is the perfect place to do it!
+The Pizza Verse Repository is a collaborative project where we can come together and contribute pizza-related content. Whether you have a fantastic pizza recipe, an interesting pizza fact, or just want to share your opinions on the best pizza toppings, this repository is the perfect place to do it!
 
 You can now add a traditional food from your hometown or country to this repository, in addition to pizza!
 
@@ -35,7 +29,7 @@ We love pizzas, but we also love any other food and adventure! Share the traditi
 ## How to Contribute
 
 > [!IMPORTANT]
-> **We only receive one added item per file and one PR for each open issue ([#32](https://github.com/open-sauced/pizza-verse/issues/32), [#35](https://github.com/open-sauced/pizza-verse/issues/35), [#36](https://github.com/open-sauced/pizza-verse/issues/36), and [#86](https://github.com/open-sauced/pizza-verse/issues/86)) per contributor**.
+> **We only receive one added item per file and one PR for each open issue ([#32](https://github.com/OpenSource-Communities/pizza-verse/issues/32), [#35](https://github.com/OpenSource-Communities/pizza-verse/issues/35), [#36](https://github.com/OpenSource-Communities/pizza-verse/issues/36), and [#86](https://github.com/OpenSource-Communities/pizza-verse/issues/86)) per contributor**.
 >
 > So, you may add only one pizza recipe, one fact or trivia, one regional pizza, and one traditional food in separate PR based on the issue. If you want to add more than one, please open an issue and explain why we should add it.
 
@@ -44,10 +38,10 @@ Follow the steps below to get started:
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) the forked repository to your local machine.
 3. [Create a new branch](https://www.shellhacks.com/git-create-new-branch-and-checkout/) with a name related to your contribution, for example, `feature/add-pizza-recipe`.
-4. You can now add a new pizza fact or trivia to the [`pizza-facts-&-trivia.md`](https://github.com/open-sauced/pizza-verse/blob/main/pizza-facts-%26-trivia.md), a new style of pizza to the [`regional-pizza.md`](https://github.com/open-sauced/pizza-verse/blob/main/regional-pizza.md), a new pizza recipe to the [`pizza-recipes.md`](https://github.com/open-sauced/pizza-verse/blob/main/pizza-recipes.md), and a traditional food to the [`world-traditional-food.md`](https://github.com/open-sauced/pizza-verse/blob/main/world-traditional-food.md) file. Remember, you may only submit **one** new item in a file.
-5. Follow our [`style-guide.md`](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md) to format your content.
+4. You can now add a new pizza fact or trivia to the [`pizza-facts-&-trivia.md`](https://github.com/OpenSource-Communities/pizza-verse/blob/main/pizza-facts-%26-trivia.md), a new style of pizza to the [`regional-pizza.md`](https://github.com/OpenSource-Communities/pizza-verse/blob/main/regional-pizza.md), a new pizza recipe to the [`pizza-recipes.md`](https://github.com/OpenSource-Communities/pizza-verse/blob/main/pizza-recipes.md), and a traditional food to the [`world-traditional-food.md`](https://github.com/OpenSource-Communities/pizza-verse/blob/main/world-traditional-food.md) file. Remember, you may only submit **one** new item in a file.
+5. Follow our [`style-guide.md`](https://github.com/OpenSource-Communities/pizza-verse/blob/main/style-guide.md) to format your content.
 6. Once you're done, [add](https://github.com/git-guides/git-add#common-usages-and-options-for-git-add) and [commit](https://github.com/git-guides/git-commit#common-usages-and-options-for-git-commit) your changes, then [push](https://github.com/git-guides/git-push#common-usages-and-options-for-git-push) them to your forked repository.
-7. Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) to have your contribution reviewed and considered for merging into the main repository.
+7. Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) to have your contribution reviewed and considered for merging into the main branch.
 8. Engage with other contributors and maintainers through comments and discussions.
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
@@ -107,25 +101,25 @@ Follow these steps to resolve the merge conflicts in this repository:
 
 ## Contribution Guidelines
 
-All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md).
+<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200" alt="rocket gif"/>
 
-<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>To ensure a smooth and enjoyable experience for everyone, please adhere to the following guidelines when contributing to this repository:
+All contributors are required to abide by our [Code of Conduct](https://github.com/OpenSource-Communities/.github/blob/main/CODE_OF_CONDUCT.md).
+
+To ensure a smooth and enjoyable experience for everyone, please adhere to the following guidelines when contributing to this repository:
 
 - Keep the content **relevant** to each section.
 - Ensure your content is **family-friendly** and suitable for all audiences.
 - Provide **credible sources** for any facts or information you include.
-- Respect our **[Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md)** and be kind and inclusive to others.
-- Please check out the [contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
-- We have a commit utility called [@open-sauced/conventional-commit](https://github.com/open-sauced/conventional-commit) that helps you write your commits in a way that is easy to understand and process by others.
+- Respect our **[Code of Conduct](https://github.com/OpenSource-Communities/.github/blob/main/CODE_OF_CONDUCT.md)** and be kind and inclusive to others.
+- Please check out the [How to Contribute](#how-to-contribute) section and [Style Guide](style-guide.md) page for guidelines about how to contribute.
 - Feel free to comment on and discuss other people's contributions, but keep the discussions **constructive** and respectful.
 
-We encourage you to experiment, learn, and have fun while contributing to this repository! Let's celebrate the joy of pizza (and food!) together. 🎉
+We encourage you to experiment, learn, and have fun while contributing to this repository. Let's celebrate the joy of pizza and traditional food together! 🎉
 
-## 🍕 Community
+## Questions?
 
-- Got questions? Join the conversation in our [Community](https://github.com/orgs/open-sauced/discussions).
-- Find OpenSauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
+If you have questions or need help, feel free to drop them in the [discussion board](https://github.com/OpenSource-Communities/pizza-verse/discussions/categories/q-a).
 
 ## ⚖️ LICENSE
 
-MIT © [OpenSauced](LICENSE)
+MIT © [Open Source Communities](LICENSE)
