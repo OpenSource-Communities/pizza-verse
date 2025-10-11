@@ -648,7 +648,7 @@ In conclusion, this Sisig Pizza recipe offers a delightful blend of traditional 
 
 ## Butter Chicken Pizza
 
-![Butter Chicken Pizza](images/butter-chicken-pizza.jpg)
+<img src="https://nishkitchen.com/wp-content/uploads/2016/05/butter-chicken-pizza-2B.jpg" width="400" height="500" alt="butter chicken pizza">
 
 Butter Chicken Pizza combines the creamy richness of Indian butter chicken with the cheesiness of pizza. It’s a fusion dish that perfectly balances spice, tang, and indulgence.
 
