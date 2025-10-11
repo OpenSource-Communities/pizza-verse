@@ -16,6 +16,8 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Savory Pear and Gorgonzola Pizza with Balsamic Glaze](#savory-pear-and-gorgonzola-pizza-with-balsamic-glaze)
 - [Zanzibar Pizza](#zanzibar-pizza)
 - [Sisig Pizza](#sisig-pizza)
+- [Butter Chicken Pizza](#butter-chicken-pizza)
+
 
 ### Margherita Pizza
 
@@ -642,4 +644,52 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 ### Conclusion
 
 In conclusion, this Sisig Pizza recipe offers a delightful blend of traditional Filipino flavors with a Western twist. The crispy pork belly, savory sisig, and gooey cheese come together on a golden crust to create a unique and satisfying dish. Whether you're exploring diverse cuisines or looking for a creative way to enjoy pizza, this fusion recipe is sure to be a hit. Share the joy of culinary experimentation with your friends and family, and savor the rich tapestry of flavors in each slice. Happy cooking!
+
+
+## Butter Chicken Pizza
+
+<img src="https://nishkitchen.com/wp-content/uploads/2016/05/butter-chicken-pizza-2B.jpg" width="400" height="500" alt="butter chicken pizza">
+
+Butter Chicken Pizza combines the creamy richness of Indian butter chicken with the cheesiness of pizza. It’s a fusion dish that perfectly balances spice, tang, and indulgence.
+
+### Ingredients
+
+- Pizza dough (store-bought or homemade)  
+- 1 cup shredded mozzarella cheese  
+- ½ cup cheddar cheese (optional)  
+- 1 medium onion (sliced)  
+- Fresh coriander leaves for garnish  
+
+**Butter Chicken Topping:**  
+- 250g boneless chicken breast, cut into cubes  
+- 2 tbsp butter  
+- 1 small onion (finely chopped)  
+- 2 tomatoes (pureed)  
+- 2 tbsp fresh cream  
+- 1 tbsp yogurt  
+- 1 tsp ginger-garlic paste  
+- 1 tsp garam masala  
+- 1 tsp chili powder  
+- ½ tsp turmeric powder  
+- 1 tsp coriander powder  
+- Salt to taste  
+
+### Instructions
+
+1. **Prepare Butter Chicken:**  
+   - Marinate chicken with yogurt, ginger-garlic paste, turmeric, chili powder, and salt. Rest 30 mins.  
+   - Cook chicken until golden brown, set aside.  
+   - In a pan, melt butter, sauté onion, add tomato puree, spices, and simmer. Add cream, then mix in the chicken.  
+
+2. **Assemble Pizza:**  
+   - Preheat oven to 220°C (430°F).  
+   - Roll out pizza dough and spread a thin layer of the butter chicken sauce as the base.  
+   - Add mozzarella and cheddar cheese.  
+   - Scatter butter chicken pieces and sliced onion.  
+
+3. **Bake:**  
+   - Bake for 12–15 minutes until crust is golden and cheese bubbles.  
+
+4. **Serve:**  
+   - Garnish with coriander leaves. Slice and enjoy hot.  
 
