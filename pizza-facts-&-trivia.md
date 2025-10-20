@@ -6,6 +6,7 @@ We've categorized the facts into different sections to help explore the diverse 
 
 ## Pizza Fun Facts
 
+- In 1996, Domino’s introduced pizza to India with its first outlet in New Delhi, followed by Pizza Hut in Bengaluru, sparking a nationwide love for this global delight 🌟. Indian pizzas quickly took on a desi twist, featuring local flavors like paneer tikka, butter chicken, and spicy masala blends, making them a unique fusion of global and Indian tastes 🌶️🧀. Now, India is the second-largest pizza market globally, with international brands and desi startups flourishing 🌏💥. Street vendors also bring their own creative spins to pizza, blending traditional Indian spices with this classic favorite 🛖🍴. Adding to its appeal, pizza’s flatbread base resembles roti, a staple Indian flatbread, making it an instant hit 🍞❤️.
 - A pizza was delivered in space 🚀 and Russian cosmonaut, Yuri Usachov, had the honor of being the first person to receive a pizza delivery while in orbit.
 - The most popular pizza 🍕 topping is pepperoni. It’s not to hard to figure this one out, but now we have the numbers to prove it! In a HarrisPoll® taken on January of 2016, pepperoni was found to be the most popular topping followed by Sausage at number two.
 - October is the US National Pizza month.
@@ -57,3 +58,20 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - Mayonnaise
 - What unusual pizza topping can be found in France, Belgium or Italy?
   - In some European countries, especially France, Belgium, or Italy (and maybe elsewhere in the world), some people like to add french fries as topping for pizzas. One call it Pizza Patatine (or Pizza Patatosa), and Domino's already launched such pizzas for a limited time (in 2023 in France).
+
+Here’s a slice of pizza trivia with an Indian twist:
+
+-Pizza's Popularity in India: Pizza has become a beloved fast food in India, with unique toppings like
+  paneer tikka, tandoori chicken, and even butter chicken to cater to local tastes.
+
+-Domino's Dominance: Domino's Pizza is the largest pizza chain in India, with hundreds of outlets across
+ the country. It’s known for its quick delivery and localized menu.
+
+-World Record: India holds a record for creating one of the largest pizzas in the world, showcasing
+ the country's love for this cheesy delight.
+
+-Fusion Flavors: Indian pizzas often feature a fusion of traditional Indian spices and ingredients,
+ making them distinct from their Italian counterparts.
+
+-Vegetarian Options: Given the large vegetarian population in India, pizza chains offer a wide 
+ variety of vegetarian pizzas, including exotic toppings like corn, capsicum, and olives.
