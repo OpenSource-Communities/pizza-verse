@@ -114,7 +114,7 @@ To ensure a smooth and enjoyable experience for everyone, please adhere to the f
 - Please check out the [How to Contribute](#how-to-contribute) section and [Style Guide](style-guide.md) page for guidelines about how to contribute.
 - Feel free to comment on and discuss other people's contributions, but keep the discussions **constructive** and respectful.
 
-We encourage you to experiment, learn, and have fun while contributing to this repository. Let's celebrate the joy of pizza and traditional food together! 🎉
+We encourage you to experiment, learn, and have fun while contributing to this repository. Let's celebrate the joy of pizza and traditional food together!
 
 ## Questions?
 
