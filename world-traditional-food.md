@@ -14,12 +14,12 @@ If your hometown or country has a traditional food (especially if it's your favo
 3. If available, add an image to the images folder. Put the path to the image or the link to the image URL in the "src" attribute. Then, add it below the food's description. For example:
 
    <img src="./images/img-name.jpg" width="400" alt="image description">
-
 -->
 
 ## Table of Contents
 
 - [North America](#north-america)
+  - [El Salvador](#el-salvador)
   - [Haiti](#haiti)
 - [South America](#south-america)
 - [Europe](#europe)
@@ -31,6 +31,14 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
+
+### El Salvador
+
+#### Pupusas
+
+A pupusa is a thick griddle cake or flatbread from El Salvador and Honduras made with cornmeal or rice flour stuffed with one or more ingredients including cheese, beans, chicharrón, or squash. It can be served with curtido and tomato sauce and is traditionally eaten by hand. (https://en.wikipedia.org/wiki/Pupusa)
+
+<img src="./images/pupusasES.jpg" width="400" alt="Pupusas with cortido and sauce">
 
 ### Haiti
 
