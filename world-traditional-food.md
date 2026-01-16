@@ -36,7 +36,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 
 #### Pupusas
 
-A pupusa is a thick griddle cake or flatbread from El Salvador and Honduras made with cornmeal or rice flour stuffed with one or more ingredients including cheese, beans, chicharrón, or squash. It can be served with curtido and tomato sauce and is traditionally eaten by hand. (https://en.wikipedia.org/wiki/Pupusa)
+A pupusa is a thick griddle cake or flatbread from El Salvador and Honduras made with cornmeal or rice flour stuffed with one or more ingredients including cheese, beans, chicharrón, or squash. It can be served with curtido and tomato sauce and is traditionally eaten by hand. Learn more about pupusa at [Wikipedia](https://en.wikipedia.org/wiki/Pupusa).
 
 <img src="./images/pupusasES.jpg" width="400" alt="Pupusas with curtido and sauce">
 
