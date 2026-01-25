@@ -2,12 +2,12 @@
 
 <!--
 Please do not leave this blank.
-This PR [adds] the [feature Homemade Vegetarian Pizza Recipe].
+This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 -->
 
 ## What type of PR is this? (check all applicable)
 
-- [x] ☝️ Add a pizza fact or trivia
+- [ ] ☝️ Add a pizza fact or trivia
 - [ ] 🧑‍🍳 Add a pizza recipe
 - [ ] 🗺️ Add a regional pizza
 - [ ] 🍴 Add a traditional food
@@ -16,14 +16,14 @@ This PR [adds] the [feature Homemade Vegetarian Pizza Recipe].
 ## Related Tickets & Documents
 
 <!--
-Please use this format link issue numbers: Relates to #32
+Please use this format link issue numbers: Relates to #123
 https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
 -->
 
 ## Added to documentation?
 
 - [ ] 📜 README.md
-- [x] 🙅 no documentation needed
+- [ ] 🙅 no documentation needed
 
 ## [optional] What GIF best describes this PR or how it makes you feel?
 
