@@ -17,6 +17,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Zanzibar Pizza](#zanzibar-pizza)
 - [Sisig Pizza](#sisig-pizza)
 - [Butter Chicken Pizza](#butter-chicken-pizza)
+- [Homemade Vegetarian Pizza](#homemade-vegetarian-pizza)
 
 
 ### Margherita Pizza
@@ -693,3 +694,42 @@ Butter Chicken Pizza combines the creamy richness of Indian butter chicken with 
 4. **Serve:**  
    - Garnish with coriander leaves. Slice and enjoy hot.  
 
+## Homemade Vegetarian Pizza
+
+![Homemade Vegetarian Pizza](images/homemade-vegetarian-pizza.jpg)
+
+Homemade Vegetarian Pizza was a recipe birthed from necessity. I wasn't happy with the customer service at my local restaurants. So I experimented with different pizza recipes, which morphed into how I make my Homemade Vegetarian Pizza!
+
+### Ingredients
+
+- Fresh pizza dough made fresh daily at your local grocery store
+- 2 small or 1 large Roma tomato
+- 1/4 of a large sweet onion sliced finely
+- 1/2 of a large pepper(red, green or yellow) sliced in 1/4 in pieces
+- A handful of baby bella mushrooms to cover the pizza
+- A handful of fresh spinach
+- 8 oz bag of shredded pizza cheese
+- Black pepper
+- Red pepper
+- Garlic pepper
+- Your favorite pizza sauce
+- 1/4 tsp Olive oil
+
+### Assemble Pizza
+
+- Spread the pizza dough evenly on a pizza pan
+- Cover the top of the pizza dough with olive oil
+- Season the dough with seasoning to your taste
+- Top the dough with your desired amount of pizza sauce
+- Cover the pizza sauce with all of the pizza cheese
+- Top with all the vegetables except the spinach
+- When the crust is a light golden brown on the edges
+- Rub the spinach with a light coating of olive oil and put it on top of the pizza
+- Cook another 5 minutes
+- Slice your pizza and eat!
+
+### Pro-Tips
+
+- Preheat the oven to 400° degrees
+- Don't let the crust get more than a medium golden brown
+- Make sure you rub the spinach with olive oil before putting it on top of the pizza and wait till the last 5 minutes to put it on top of the pizza
