@@ -5,18 +5,18 @@ Welcome to the Pizza Verse! This document is a general style to help you format 
 ## Headings
 
 - Only use the `h1` tags if you’re creating a new file.
-- Main titles should use the `h2` tag(e.g., ## Toppings)
-- Sub-titles should use the `h3` tag (e.g., ### Types of Pepperoni)
+- Main titles should use the `h2` tag (e.g., `## Toppings`)
+- Sub-titles should use the `h3` tag (e.g., `### Types of Pepperoni`)
 - Headings should be written in Title case.
 
-### Lists
+## Lists
 
-- When adding a pizza fun fact to the list or describing the ingredients for a recipe, create unordered lists using dash (-).
+- When adding a pizza fun fact to the list or describing the ingredients for a recipe, create unordered lists using dash (`-`).
 
-### Links
+## Links
 
-- Use this syntax for links to webpages: `![alt text](url)]`.
-- If you'd like to link hosted files such as images, or GIFs, please upload them to the [images folder](https://github.com/open-sauced/pizza-verse/tree/main/images). Said images should be linked using the following url: "<https://raw.githubusercontent.com/open-sauced/pizza-verse/main/images/>" followed by the image’s name.
+- Use this syntax for links to webpages: `![alt text](url)`.
+- If you'd like to link hosted files such as images or GIFs, please upload them to the [images folder](https://github.com/Virtual-Coffee/pizza-verse/tree/main/images). Said images should be linked using the following url: "<https://raw.githubusercontent.com/Virtual-Coffee/pizza-verse/main/images/>" followed by the image’s name.
 - Avoid linking to sites such as Wikipedia due to its lack of quality control.
 
 > **Note:** Always check for spelling and grammar errors before you publish your PR. We highly recommend consulting [Grammarly](https://www.grammarly.com/) to help with any of your typos.

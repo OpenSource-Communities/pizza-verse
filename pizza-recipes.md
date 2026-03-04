@@ -16,6 +16,9 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Savory Pear and Gorgonzola Pizza with Balsamic Glaze](#savory-pear-and-gorgonzola-pizza-with-balsamic-glaze)
 - [Zanzibar Pizza](#zanzibar-pizza)
 - [Sisig Pizza](#sisig-pizza)
+- [Butter Chicken Pizza](#butter-chicken-pizza)
+- [Homemade Vegetarian Pizza](#homemade-vegetarian-pizza)
+
 
 ### Margherita Pizza
 
@@ -643,3 +646,119 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 
 In conclusion, this Sisig Pizza recipe offers a delightful blend of traditional Filipino flavors with a Western twist. The crispy pork belly, savory sisig, and gooey cheese come together on a golden crust to create a unique and satisfying dish. Whether you're exploring diverse cuisines or looking for a creative way to enjoy pizza, this fusion recipe is sure to be a hit. Share the joy of culinary experimentation with your friends and family, and savor the rich tapestry of flavors in each slice. Happy cooking!
 
+
+## Butter Chicken Pizza
+
+<img src="https://nishkitchen.com/wp-content/uploads/2016/05/butter-chicken-pizza-2B.jpg" width="400" height="500" alt="butter chicken pizza">
+
+Butter Chicken Pizza combines the creamy richness of Indian butter chicken with the cheesiness of pizza. It’s a fusion dish that perfectly balances spice, tang, and indulgence.
+
+### Ingredients
+
+- Pizza dough (store-bought or homemade)  
+- 1 cup shredded mozzarella cheese  
+- ½ cup cheddar cheese (optional)  
+- 1 medium onion (sliced)  
+- Fresh coriander leaves for garnish  
+
+**Butter Chicken Topping:**  
+- 250g boneless chicken breast, cut into cubes  
+- 2 tbsp butter  
+- 1 small onion (finely chopped)  
+- 2 tomatoes (pureed)  
+- 2 tbsp fresh cream  
+- 1 tbsp yogurt  
+- 1 tsp ginger-garlic paste  
+- 1 tsp garam masala  
+- 1 tsp chili powder  
+- ½ tsp turmeric powder  
+- 1 tsp coriander powder  
+- Salt to taste  
+
+### Instructions
+
+1. **Prepare Butter Chicken:**  
+   - Marinate chicken with yogurt, ginger-garlic paste, turmeric, chili powder, and salt. Rest 30 mins.  
+   - Cook chicken until golden brown, set aside.  
+   - In a pan, melt butter, sauté onion, add tomato puree, spices, and simmer. Add cream, then mix in the chicken.  
+
+2. **Assemble Pizza:**  
+   - Preheat oven to 220°C (430°F).  
+   - Roll out pizza dough and spread a thin layer of the butter chicken sauce as the base.  
+   - Add mozzarella and cheddar cheese.  
+   - Scatter butter chicken pieces and sliced onion.  
+
+3. **Bake:**  
+   - Bake for 12–15 minutes until crust is golden and cheese bubbles.  
+
+4. **Serve:**  
+   - Garnish with coriander leaves. Slice and enjoy hot.  
+
+## Homemade Vegetarian Pizza
+
+![Homemade Vegetarian Pizza](images/homemade-vegetarian-pizza.jpg)
+
+Homemade Vegetarian Pizza was a recipe birthed from necessity. I wasn't happy with the customer service at my local restaurants. So I experimented with different pizza recipes, which morphed into how I make my Homemade Vegetarian Pizza!
+
+### Ingredients
+
+- Fresh pizza dough made fresh daily at your local grocery store
+- 2 small or 1 large Roma tomato
+- 1/4 of a large sweet onion sliced finely
+- 1/2 of a large pepper(red, green or yellow) sliced in 1/4 in pieces
+- A handful of baby bella mushrooms to cover the pizza
+- A handful of fresh spinach
+- 8 oz bag of shredded pizza cheese
+- Black pepper
+- Red pepper
+- Garlic pepper
+- Your favorite pizza sauce
+- 1/4 tsp Olive oil
+
+### Assemble Pizza
+
+- Spread the pizza dough evenly on a pizza pan
+- Cover the top of the pizza dough with olive oil
+- Season the dough with seasoning to your taste
+- Top the dough with your desired amount of pizza sauce
+- Cover the pizza sauce with all of the pizza cheese
+- Top with all the vegetables except the spinach
+- When the crust is a light golden brown on the edges
+- Rub the spinach with a light coating of olive oil and put it on top of the pizza
+- Cook another 5 minutes
+- Slice your pizza and eat!
+
+### Pro-Tips
+
+- Preheat the oven to 400° degrees
+- Don't let the crust get more than a medium golden brown
+- Make sure you rub the spinach with olive oil before putting it on top of the pizza and wait till the last 5 minutes to put it on top of the pizza
+
+## Classic Margherita Pizza
+
+A simple, iconic Neapolitan pizza using just three toppings representing the colors of the Italian flag.
+
+### Ingredients
+
+- Pizza dough (store-bought or homemade)
+- 1/2 cup San Marzano crushed tomatoes
+- 1 cup fresh mozzarella, torn
+- Fresh basil leaves
+- 2 tbsp olive oil
+- Salt to taste
+
+### Instructions
+
+- Preheat oven to 500°F (or as high as it goes) with a pizza stone or baking sheet inside
+- Stretch dough into a thin round on a floured surface
+- Spread crushed tomatoes lightly over the dough, leaving a 1-inch border
+- Scatter fresh mozzarella pieces evenly over the sauce
+- Drizzle with olive oil and season with salt
+- Slide onto the hot stone and bake 8-10 minutes until crust is charred at edges and cheese is bubbly
+- Remove from oven and immediately top with fresh basil leaves
+
+### Pro-Tips
+
+- Use a hot pizza stone for the best crust — it mimics a brick oven
+- Less is more: don't overload the sauce or the crust will get soggy
+- Fresh mozzarella has more moisture than low-moisture; pat it dry before using

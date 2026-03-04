@@ -33,6 +33,11 @@ We've categorized the facts into different sections to help explore the diverse 
 - "Pizza John’s Jardín Escondido" restaurant in El Castillo, Costa Rica, is widely considered the world’s most remote pizzaria. It is situated in the middle of the rainforest in Volcán Arenal National Park and affords spectacular views of mountains, lagoons, and wildlife. The pizzaria is located 80+ miles from the nearest city.
 - A new Guiness World Record for largest pizza was set in 2023. In total, 13,653 pounds (6,193 kilograms) of dough, 4,948 pounds of pizza sauce, more than 8,800 pounds of cheese and roughly 630,496 pieces of pepperoni went into making the record-breaking pie.
 - Egyptian pizza joints often put a local spin on toppings, and one quirky example is "Hawawshi Pizza"! Traditional hawawshi is a beloved Egyptian street food—a pita stuffed with spiced minced meat (usually beef or lamb), onions, peppers, and herbs like parsley, all seasoned with cumin, garlic, and chili. Some innovative pizzerias in Egypt have reimagined this classic by spreading the spiced meat mixture over a pizza base, baking it with melty cheese, and sometimes adding a drizzle of tahini or a squeeze of lemon. It’s a fiery, fragrant twist that blends Italian structure with bold Egyptian flavors—proof that pizza truly is a global canvas! 🌍🔥🍕
+- In Nashville, during September, the Nashville Scene, a local paper, holds an Annual Pizza Week. They join with local restaurants to offer specialty pizzas for $12 a pie. These size pizzas are normally around $20. Some from this year's offers are a Lasagna Pizza, Pizza Elote, and an Oxtail Pizza. There are twenty-five restaurants offering dishes this year, including a Pub and a Mexican restaurant.
+  - Readers vote on their favorites in three categories: Best Overall Pizza, Best Traditional Pizza, and Most Creative Pizza.
+  - Visit the [Pizza Week 2025 site](https://www.fwpublishingevents.com/pizza-week-2025).
+  - The Scene holds similar weeks for hamburgers, tacos, and hot chicken. They encourage customers to tip on the original price and not the event discount rate.
+
 
 ## Pizza Trivia
 
@@ -52,3 +57,5 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - Mayonnaise
 - What unusual pizza topping can be found in France, Belgium or Italy?
   - In some European countries, especially France, Belgium, or Italy (and maybe elsewhere in the world), some people like to add french fries as topping for pizzas. One call it Pizza Patatine (or Pizza Patatosa), and Domino's already launched such pizzas for a limited time (in 2023 in France).
+- Which US city is famous for "apizza" — a coal-fired pizza where white clam pizza is an iconic topping?
+  - New Haven, Connecticut. Pizzerias like Frank Pepe's have been making white clam pizza — topped with fresh littleneck clams, garlic, olive oil, and oregano on a thin, charred crust — since 1925.
