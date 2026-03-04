@@ -53,6 +53,7 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 ## Europe
 
 ## Africa
+
 ### Nigeria
 
 #### Amala
