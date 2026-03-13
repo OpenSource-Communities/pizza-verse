@@ -76,3 +76,21 @@ The Old Forge favorite is in such hot demand that Genell ships the rectangular p
 New Haven, Connecticut is home to one of America's most distinct regional pizza traditions, locally called "apizza" (pronounced "ah-beetz"). Brought by Southern Italian immigrants in the early 1900s, New Haven-style pizza is defined by its coal-fired, extremely high-heat bake that produces a charred, blistered, thin crust with a chewy interior. The shape is often irregular — oblong rather than perfectly round. Sauce is applied lightly, and the default is actually a tomato-garlic-oregano pie with no cheese (you add mozzarella separately). The most famous variation is the white clam pie: fresh littleneck clams, garlic, olive oil, oregano, and a dusting of pecorino on the signature dark crust — no tomato, no mozzarella.
 
 Legendary pizzerias Frank Pepe's (est. 1925), Sally's Apizza (est. 1938), and Modern Apizza anchor the "Wooster Street" pizza district and regularly appear on lists of America's best pizzerias.
+
+## Indian Tandoori Paneer Pizza
+
+Indian Tandoori Paneer Pizza is a popular fusion pizza in India combining Italian pizza with Indian spices.
+
+### Key Characteristics
+
+- Spiced paneer cubes
+- Tandoori flavored sauce
+- Popular vegetarian pizza in India
+
+### Common Toppings
+
+- Paneer
+- Onion
+- Capsicum
+- Mozzarella cheese
+- Tandoori sauce
