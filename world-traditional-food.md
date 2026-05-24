@@ -29,6 +29,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [Indonesia](#indonesia)
   - [Japan](#japan)
   - [Philippines](#philippines)
+  - [Tibet](#tibet)
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
