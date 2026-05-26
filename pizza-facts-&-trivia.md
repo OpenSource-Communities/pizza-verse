@@ -38,6 +38,8 @@ We've categorized the facts into different sections to help explore the diverse 
   - Visit the [Pizza Week 2025 site](https://www.fwpublishingevents.com/pizza-week-2025).
   - The Scene holds similar weeks for hamburgers, tacos, and hot chicken. They encourage customers to tip on the original price and not the event discount rate.
 
+  - Authentic Neapolitan pizza follows strict traditional guidelines in Italy. According to the Associazione Verace Pizza Napoletana (AVPN), it must be made with specific ingredients, hand-kneaded dough, and baked in a wood-fired oven at approximately 485°C (905°F) for only 60 to 90 seconds.
+
 
 ## Pizza Trivia
 
@@ -59,3 +61,6 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - In some European countries, especially France, Belgium, or Italy (and maybe elsewhere in the world), some people like to add french fries as topping for pizzas. One call it Pizza Patatine (or Pizza Patatosa), and Domino's already launched such pizzas for a limited time (in 2023 in France).
 - Which US city is famous for "apizza" — a coal-fired pizza where white clam pizza is an iconic topping?
   - New Haven, Connecticut. Pizzerias like Frank Pepe's have been making white clam pizza — topped with fresh littleneck clams, garlic, olive oil, and oregano on a thin, charred crust — since 1925.
+
+- Which country created Hawaiian pizza despite its name?
+  - Canada. Hawaiian pizza was created in 1962 by Sam Panopoulos, a Greek immigrant living in Ontario, Canada.

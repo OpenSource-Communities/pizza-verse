@@ -94,3 +94,38 @@ Indian Tandoori Paneer Pizza is a popular fusion pizza in India combining Italia
 - Capsicum
 - Mozzarella cheese
 - Tandoori sauce
+
+## Mumbai Street-Style Pizza
+
+Mumbai Street-Style Pizza is a popular Indian adaptation of traditional pizza commonly sold by local street vendors and cafés across Mumbai. Unlike classic Italian pizzas, this version is known for its spicy flavors, generous cheese, and fusion of Indian-style toppings and sauces.
+
+### Key Characteristics
+
+- Thick and crispy bread-like base
+- Spicy vegetable toppings
+- Heavy use of processed cheese
+- Often prepared on a flat tawa instead of a pizza oven
+- Affordable and popular street food snack
+
+### Common Toppings
+
+- Onion
+- Capsicum
+- Tomato
+- Sweet corn
+- Jalapeños
+- Cheese
+- Schezwan sauce
+- Oregano
+- Chili flakes
+
+### Popular Areas In Mumbai
+
+- Juhu
+- Dadar
+- Chowpatty
+- Mohammed Ali Road
+
+### Fun Fact
+
+Many Mumbai street vendors toast the pizza directly on a buttered iron tawa, giving it a crispy texture and slightly smoky flavor that differs from traditional oven-baked pizzas.
