@@ -66,7 +66,7 @@ Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cu
 
 <img src="images/pilau-kenya.jpg" width="400" alt="A plate of Kenyan Pilau spiced rice with meat">
 
-**Image source:** Dadiesto, [_African pilau dish_](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
+**Image source:** Dadiesto, [African pilau dish](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
 
 ### Nigeria
 
@@ -76,7 +76,7 @@ Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cu
 
 <img src="images/Amala_with_Ewedu.jpg" width="400" alt="A plate of Amala with ewedu.">
 
-**Image source:** shola oshinowo, [_Amala with Ewedu_](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**Image source:** shola oshinowo, [Amala with Ewedu](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Asia
 
