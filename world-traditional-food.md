@@ -31,6 +31,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [Indonesia](#indonesia)
   - [Japan](#japan)
   - [Philippines](#philippines)
+  - [Pakistan](#pakistan)
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
@@ -65,7 +66,7 @@ Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cu
 
 <img src="images/pilau-kenya.jpg" width="400" alt="A plate of Kenyan Pilau spiced rice with meat">
 
-**Image source:** Dadiesto, [*African pilau dish*](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
+**Image source:** Dadiesto, [African pilau dish](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
 
 ### Nigeria
 
@@ -75,7 +76,7 @@ Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cu
 
 <img src="images/Amala_with_Ewedu.jpg" width="400" alt="A plate of Amala with ewedu.">
 
-**Image source:** shola oshinowo, [*Amala with Ewedu*](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**Image source:** shola oshinowo, [Amala with Ewedu](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Asia
 
@@ -94,6 +95,14 @@ A samosa is a popular fried or baked pastry with a savory filling, often consist
 The filling of a samosa typically includes spiced potatoes, peas, and sometimes lentils or ground meat like lamb or chicken, flavored with a blend of spices such as cumin, coriander, and garam masala. Samosas are often enjoyed with dipping sauces such as tamarind chutney, mint-coriander chutney, or yogurt-based raita, which complement the spicy filling with their tangy and refreshing flavors.
 
 <img src="images/samora.jpg" width="408" alt="A delicious samosa">
+
+### Pakistan
+
+#### Biryani:
+
+The country’s favorite celebratory dish. This fragrant, spiced rice is layered with marinated chicken, beef, or mutton and garnished with fresh mint, fried onions, and potatoes.
+
+<img src="https://www.willflyforfood.net/wp-content/uploads/2022/11/pakistani-food-biryani.jpg.webp" width="400" alt="Biryani with spiced rice and chicken served in a bowl on a wooden table in a warm celebratory meal setting">
 
 ### Indonesia
 
