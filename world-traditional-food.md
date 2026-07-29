@@ -1,132 +1,141 @@
-# Traditional Food Around the World
+  # Traditional Food Around the World
 
-Welcome to the Traditional Food Around the World section of our repo! 🗺️🍴
+  Welcome to the Traditional Food Around the World section of our repo! 🗺️🍴
 
-If your hometown or country has a traditional food (especially if it's your favorite dish!), we encourage you to share it here. We're excited to learn about food culture from around the world!
+  If your hometown or country has a traditional food (especially if it's your favorite dish!), we encourage you to share it here. We're excited to learn about food culture from around the world!
 
-<!-- CONTRIBUTING INSTRUCTIONS -->
+  <!-- CONTRIBUTING INSTRUCTIONS -->
 
-<!--
-1. If the country name is not available, add it to the continent section, e.g., ### Country Name. Then, add the country as a list under the continent in the Table of Contents. NOTE: Country names should be ordered alphabetically.
+  <!--
+  1. If the country name is not available, add it to the continent section, e.g., ### Country Name. Then, add the country as a list under the continent in the Table of Contents. NOTE: Country names should be ordered alphabetically.
 
-2. Add the food to the country section, e.g., #### Food Name
+  2. Add the food to the country section, e.g., #### Food Name
 
-3. If available, add an image to the images folder. Put the path to the image or the link to the image URL in the "src" attribute. Then, add it below the food's description. For example:
+  3. If available, add an image to the images folder. Put the path to the image or the link to the image URL in the "src" attribute. Then, add it below the food's description. For example:
 
-   <img src="./images/img-name.jpg" width="400" alt="image description">
--->
+    <img src="./images/img-name.jpg" width="400" alt="image description">
+  -->
 
-## Table of Contents
+  ## Table of Contents
 
-- [North America](#north-america)
-  - [El Salvador](#el-salvador)
-  - [Haiti](#haiti)
-- [South America](#south-america)
-- [Europe](#europe)
-- [Africa](#africa)
-  - [Kenya](#kenya)
-  - [Nigeria](#nigeria)
-- [Asia](#asia)
-  - [India](#india)
-  - [Indonesia](#indonesia)
-  - [Japan](#japan)
-  - [Philippines](#philippines)
-- [Australia / Oceania](#australia--oceania)
+  - [North America](#north-america)
+    - [El Salvador](#el-salvador)
+    - [Haiti](#haiti)
+  - [South America](#south-america)
+  - [Europe](#europe)
+  - [Africa](#africa)
+    - [Kenya](#kenya)
+    - [Nigeria](#nigeria)
+  - [Asia](#asia)
+    - [India](#india)
+    - [Indonesia](#indonesia)
+    - [Japan](#japan)
+    - [Philippines](#philippines)
+  - [Australia / Oceania](#australia--oceania)
 
-## North America
+  ## North America
 
-### El Salvador
+  ### El Salvador
 
-#### Pupusas
+  #### Pupusas
 
-A pupusa is a thick griddle cake or flatbread from El Salvador and Honduras made with cornmeal or rice flour stuffed with one or more ingredients including cheese, beans, chicharrón, or squash. It can be served with curtido and tomato sauce and is traditionally eaten by hand. Learn more about pupusa at [Wikipedia](https://en.wikipedia.org/wiki/Pupusa).
+  A pupusa is a thick griddle cake or flatbread from El Salvador and Honduras made with cornmeal or rice flour stuffed with one or more ingredients including cheese, beans, chicharrón, or squash. It can be served with curtido and tomato sauce and is traditionally eaten by hand. Learn more about pupusa at [Wikipedia](https://en.wikipedia.org/wiki/Pupusa).
 
-<img src="./images/pupusasES.jpg" width="400" alt="Pupusas with curtido and sauce">
+  <img src="./images/pupusasES.jpg" width="400" alt="Pupusas with curtido and sauce">
 
-### Haiti
+  ### Haiti
 
-#### Griot
+  #### Griot
 
-Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in a mixture of herbs and spices and fried in oil, resulting in a crispy and tender meat, and the sauce is rich and flavorful. Griot is often topped with a pickled vegetable sauce called "pikliz"(pronounced "pick-leez") and served along side with fried plantains, rice, and red beans, making it the national dish of Haiti.
+  Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in a mixture of herbs and spices and fried in oil, resulting in a crispy and tender meat, and the sauce is rich and flavorful. Griot is often topped with a pickled vegetable sauce called "pikliz"(pronounced "pick-leez") and served along side with fried plantains, rice, and red beans, making it the national dish of Haiti.
 
-<img src="./images/griot.jpg" width="400" alt="a plate of rice and beans with fried plantains and griot topped with pikliz">
- 
-## South America
+  <img src="./images/griot.jpg" width="400" alt="a plate of rice and beans with fried plantains and griot topped with pikliz">
+  
+  ## South America
 
-## Europe
+  ## Europe
 
-## Africa
+  ## Africa
 
-### Kenya
+  ### Kenya
 
-#### Pilau
+  #### Pilau
 
-Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cuisine, particularly along the Swahili Coast. It is made by cooking rice in a rich broth seasoned with a blend of spices including cumin, coriander, cardamom, cinnamon, and black pepper. The dish is typically prepared with beef, chicken, or goat meat, and is often garnished with onions.
+  Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cuisine, particularly along the Swahili Coast. It is made by cooking rice in a rich broth seasoned with a blend of spices including cumin, coriander, cardamom, cinnamon, and black pepper. The dish is typically prepared with beef, chicken, or goat meat, and is often garnished with onions.
 
-<img src="images/pilau-kenya.jpg" width="400" alt="A plate of Kenyan Pilau spiced rice with meat">
+  <img src="images/pilau-kenya.jpg" width="400" alt="A plate of Kenyan Pilau spiced rice with meat">
 
-**Image source:** Dadiesto, [*African pilau dish*](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
+  **Image source:** Dadiesto, [*African pilau dish*](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
 
-### Nigeria
+  ### Nigeria
 
-#### Amala
+  #### Amala
 
-Àmàlà is a staple swallow food originating from Nigeria created by the Yoruba ethnic group of southwestern Nigeria and other parts of Yorubaland. It is a popular side dish served with ewédú and gbẹ̀gìrì (black-eyed beans soup), but is also served with a variety of other ọbè (soups), such as ẹ̀fọ́, ilá, and ogbono.[[1]](https://en.wikipedia.org/wiki/Amala_(food))
+  Àmàlà is a staple swallow food originating from Nigeria created by the Yoruba ethnic group of southwestern Nigeria and other parts of Yorubaland. It is a popular side dish served with ewédú and gbẹ̀gìrì (black-eyed beans soup), but is also served with a variety of other ọbè (soups), such as ẹ̀fọ́, ilá, and ogbono.[[1]](https://en.wikipedia.org/wiki/Amala_(food))
 
-<img src="images/Amala_with_Ewedu.jpg" width="400" alt="A plate of Amala with ewedu.">
+  <img src="images/Amala_with_Ewedu.jpg" width="400" alt="A plate of Amala with ewedu.">
 
-**Image source:** shola oshinowo, [*Amala with Ewedu*](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+  **Image source:** shola oshinowo, [*Amala with Ewedu*](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Asia
+  ## Asia
 
-### India
+  ### India
 
-#### Dosa
+  #### Dosa
 
-Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe made from fermented rice and lentil batter. Dosa has many variations, like egg dosa, stuffed dosa, onion dosa, etc. This dish is typically served with _sambar_ (a lentil stew) and coconut or peanut chutney.
+  Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe made from fermented rice and lentil batter. Dosa has many variations, like egg dosa, stuffed dosa, onion dosa, etc. This dish is typically served with _sambar_ (a lentil stew) and coconut or peanut chutney.
 
-<img src="images/dosa.webp" width="408" alt="Normal and stuffed dosa served with sambar">
+  <img src="images/dosa.webp" width="408" alt="Normal and stuffed dosa served with sambar">
 
-#### Samosa
+  #### Samosa
 
-A samosa is a popular fried or baked pastry with a savory filling, often consisting of spiced potatoes, peas, and sometimes meat. Originating in the Indian subcontinent, this triangular snack is enjoyed worldwide and is a staple in Indian cuisine.
+  A samosa is a popular fried or baked pastry with a savory filling, often consisting of spiced potatoes, peas, and sometimes meat. Originating in the Indian subcontinent, this triangular snack is enjoyed worldwide and is a staple in Indian cuisine.
 
-The filling of a samosa typically includes spiced potatoes, peas, and sometimes lentils or ground meat like lamb or chicken, flavored with a blend of spices such as cumin, coriander, and garam masala. Samosas are often enjoyed with dipping sauces such as tamarind chutney, mint-coriander chutney, or yogurt-based raita, which complement the spicy filling with their tangy and refreshing flavors.
+  The filling of a samosa typically includes spiced potatoes, peas, and sometimes lentils or ground meat like lamb or chicken, flavored with a blend of spices such as cumin, coriander, and garam masala. Samosas are often enjoyed with dipping sauces such as tamarind chutney, mint-coriander chutney, or yogurt-based raita, which complement the spicy filling with their tangy and refreshing flavors.
 
-<img src="images/samora.jpg" width="408" alt="A delicious samosa">
+  <img src="images/samora.jpg" width="408" alt="A delicious samosa">
 
-### Indonesia
+#### Puran Poli
 
-#### Rendang
+Puran Poli is a traditional sweet flatbread from the Indian state of Maharashtra. It is prepared by stuffing a soft wheat flour dough with a sweet filling made from cooked chana dal (split Bengal gram), jaggery, cardamom, and nutmeg. It is commonly prepared during festivals such as Holi, Gudi Padwa, and Diwali and is often served with ghee or milk.
 
-Rendang is a dish that originated in West Sumatra, Indonesia. It is a rich meat-based dish that is slow-cooked, braised in coconut milk, and seasoned with herb and spice mixture over a period of several hours. As the liquids evaporate, the meat turns dark brown and tender, caramelizing and infusing it with rich flavours.
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Puran_Poli.jpg" width="400" alt="Traditional Maharashtrian Puran Poli">
 
-Rendang is traditionally served at ceremonial occasions to honour guests during festive events, such as wedding feasts and Lebaran (Indonesian popular words for both Eid al-Fitr and Eid al-Adha).
+**Image source:** Wikimedia Commons
 
-<img src="https://indonesiakaya.com/wp-content/uploads/2023/04/ren_Artboard_4.jpg" width="400" alt="rendang indonesian food">
+  ### Indonesia
 
-### Japan
+  #### Rendang
 
-#### Ramen
+  Rendang is a dish that originated in West Sumatra, Indonesia. It is a rich meat-based dish that is slow-cooked, braised in coconut milk, and seasoned with herb and spice mixture over a period of several hours. As the liquids evaporate, the meat turns dark brown and tender, caramelizing and infusing it with rich flavours.
 
-Ramen is a Japanese noodle soup dish that has evolved from Chinese wheat noodles into one of Japan's most beloved comfort foods. A bowl of ramen features wheat noodles served in a rich, carefully crafted broth — the most common styles are shōyu (soy sauce), miso, shio (salt), and tonkotsu (pork bone). Each region of Japan has its own signature variation: Sapporo is known for hearty miso ramen topped with corn and butter, Hakata for its creamy white tonkotsu, and Tokyo for a lighter shōyu broth.
+  Rendang is traditionally served at ceremonial occasions to honour guests during festive events, such as wedding feasts and Lebaran (Indonesian popular words for both Eid al-Fitr and Eid al-Adha).
 
-Toppings typically include chashu (braised pork belly), soft-boiled marinated eggs (ajitsuke tamago), nori seaweed, bamboo shoots (menma), and green onions. Ramen shops (ramen-ya) are found on nearly every street corner in Japan, and many have cult followings with lines stretching around the block.
+  <img src="https://indonesiakaya.com/wp-content/uploads/2023/04/ren_Artboard_4.jpg" width="400" alt="rendang indonesian food">
 
-While instant ramen was invented in 1958 by Momofuku Ando and spread globally, authentic shop-made ramen broth is simmered for many hours — sometimes overnight — to achieve its depth of flavor.
+  ### Japan
 
-### Philippines
+  #### Ramen
 
-#### Adobong Manok
+  Ramen is a Japanese noodle soup dish that has evolved from Chinese wheat noodles into one of Japan's most beloved comfort foods. A bowl of ramen features wheat noodles served in a rich, carefully crafted broth — the most common styles are shōyu (soy sauce), miso, shio (salt), and tonkotsu (pork bone). Each region of Japan has its own signature variation: Sapporo is known for hearty miso ramen topped with corn and butter, Hakata for its creamy white tonkotsu, and Tokyo for a lighter shōyu broth.
 
-Adobong manok, or "chicken adobo," is widely regarded to be the national dish of the Philippines. The beauty of chicken adobo is not just the savory flavors of the dish but also how simple and easy it is to prepare.
+  Toppings typically include chashu (braised pork belly), soft-boiled marinated eggs (ajitsuke tamago), nori seaweed, bamboo shoots (menma), and green onions. Ramen shops (ramen-ya) are found on nearly every street corner in Japan, and many have cult followings with lines stretching around the block.
 
-Every cook might have their own methods for cooking but the recipe typically require only a few basic ingredients that are commonly available in most kitchens: vinegar, soy sauce, black peppercorns, and bay leaves.
+  While instant ramen was invented in 1958 by Momofuku Ando and spread globally, authentic shop-made ramen broth is simmered for many hours — sometimes overnight — to achieve its depth of flavor.
 
-The cooking process usually involves marinating the chicken in a mixture of these ingredients in a pot for a short period. After marinating, the chicken is simmered in the marinade until tender. This dish is traditionally served with steamed rice or garlic fried rice.
+  ### Philippines
 
-<img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
+  #### Adobong Manok
 
-**Image source:** Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+  Adobong manok, or "chicken adobo," is widely regarded to be the national dish of the Philippines. The beauty of chicken adobo is not just the savory flavors of the dish but also how simple and easy it is to prepare.
 
-## Australia / Oceania
+  Every cook might have their own methods for cooking but the recipe typically require only a few basic ingredients that are commonly available in most kitchens: vinegar, soy sauce, black peppercorns, and bay leaves.
+
+  The cooking process usually involves marinating the chicken in a mixture of these ingredients in a pot for a short period. After marinating, the chicken is simmered in the marinade until tender. This dish is traditionally served with steamed rice or garlic fried rice.
+
+  <img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
+
+  **Image source:** Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+  ## Australia / Oceania
+
