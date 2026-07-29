@@ -99,9 +99,8 @@
 
 Puran Poli is a traditional sweet flatbread from the Indian state of Maharashtra. It is prepared by stuffing a soft wheat flour dough with a sweet filling made from cooked chana dal (split Bengal gram), jaggery, cardamom, and nutmeg. It is commonly prepared during festivals such as Holi, Gudi Padwa, and Diwali and is often served with ghee or milk.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Puran_Poli.jpg" width="400" alt="Traditional Maharashtrian Puran Poli">
-
-**Image source:** Wikimedia Commons
+<img src="images/Puran_Poli.png" width="400" alt="Traditional Maharashtrian Puran Poli">
+  
 
   ### Indonesia
 
