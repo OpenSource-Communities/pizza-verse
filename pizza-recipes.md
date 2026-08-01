@@ -18,7 +18,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Sisig Pizza](#sisig-pizza)
 - [Butter Chicken Pizza](#butter-chicken-pizza)
 - [Homemade Vegetarian Pizza](#homemade-vegetarian-pizza)
-
+- [Paneer Tikka Pizza](#paneer-tikka-pizza)
 
 ### Margherita Pizza
 
@@ -762,3 +762,36 @@ A simple, iconic Neapolitan pizza using just three toppings representing the col
 - Use a hot pizza stone for the best crust — it mimics a brick oven
 - Less is more: don't overload the sauce or the crust will get soggy
 - Fresh mozzarella has more moisture than low-moisture; pat it dry before using
+
+## Paneer Tikka Pizza
+
+### Ingredients
+
+#### Dough
+- 2 cups all-purpose flour
+- 1 teaspoon instant yeast
+- 1 teaspoon sugar
+- 1/2 teaspoon salt
+- 3/4 cup warm water
+- 1 tablespoon olive oil
+
+#### Toppings
+- 1 cup paneer cubes
+- 1/2 cup pizza sauce
+- 1 cup mozzarella cheese
+- 1 small onion, sliced
+- 1 small capsicum, sliced
+- 1 teaspoon tandoori masala
+- 1 teaspoon oregano
+- 1 teaspoon chili flakes
+
+### Instructions
+
+1. Mix the flour, yeast, sugar, salt, warm water, and olive oil to prepare the dough.
+2. Let the dough rise for about 1 hour.
+3. Coat the paneer cubes with tandoori masala.
+4. Roll out the dough and spread the pizza sauce evenly.
+5. Top with mozzarella cheese, paneer, onion, and capsicum.
+6. Sprinkle oregano and chili flakes.
+7. Bake at **220°C (425°F)** for **12–15 minutes**, or until the crust is golden and the cheese has melted.
+8. Slice and serve hot.
