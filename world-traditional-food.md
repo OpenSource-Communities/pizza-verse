@@ -122,6 +122,10 @@ While instant ramen was invented in 1958 by Momofuku Ando and spread globally, a
 
 Nihari is a rich, slow-cooked meat stew from Pakistan, often made with beef or lamb shank and bone marrow. Originally served as a hearty breakfast dish, it is famous for its deeply flavorful, spicy gravy that is traditionally cooked overnight. It is typically garnished with fresh ginger, green chilies, coriander, and a squeeze of lemon, and served hot with fresh naan.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nalli_Nihari_India.jpg/960px-Nalli_Nihari_India.jpg" width="400" alt="Nihari with naan">
+
+**Image source:** Rupamdas75, [*Nalli Nihari*](https://commons.wikimedia.org/wiki/File:Nalli_Nihari_India.jpg), CC BY-SA 4.0, via Wikimedia Commons
+
 ### Philippines
 
 #### Adobong Manok
