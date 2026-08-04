@@ -30,6 +30,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [India](#india)
   - [Indonesia](#indonesia)
   - [Japan](#japan)
+  - [Pakistan](#pakistan)
   - [Philippines](#philippines)
 - [Australia / Oceania](#australia--oceania)
 
@@ -114,6 +115,12 @@ Ramen is a Japanese noodle soup dish that has evolved from Chinese wheat noodles
 Toppings typically include chashu (braised pork belly), soft-boiled marinated eggs (ajitsuke tamago), nori seaweed, bamboo shoots (menma), and green onions. Ramen shops (ramen-ya) are found on nearly every street corner in Japan, and many have cult followings with lines stretching around the block.
 
 While instant ramen was invented in 1958 by Momofuku Ando and spread globally, authentic shop-made ramen broth is simmered for many hours — sometimes overnight — to achieve its depth of flavor.
+
+### Pakistan
+
+#### Nihari
+
+Nihari is a rich, slow-cooked meat stew from Pakistan, often made with beef or lamb shank and bone marrow. Originally served as a hearty breakfast dish, it is famous for its deeply flavorful, spicy gravy that is traditionally cooked overnight. It is typically garnished with fresh ginger, green chilies, coriander, and a squeeze of lemon, and served hot with fresh naan.
 
 ### Philippines
 
