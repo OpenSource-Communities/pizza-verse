@@ -94,3 +94,21 @@ Indian Tandoori Paneer Pizza is a popular fusion pizza in India combining Italia
 - Capsicum
 - Mozzarella cheese
 - Tandoori sauce
+
+## Chicken Tikka Pizza
+
+Chicken Tikka Pizza is a hugely popular fusion pizza in Pakistan that combines the classic Italian pizza base with the spicy and smoky flavors of Pakistani BBQ. It is a staple in nearly every pizzeria across the country.
+
+### Key Characteristics
+
+- Spicy chicken tikka chunks
+- Often features a slightly thicker, softer crust to hold the heavy toppings
+- A perfect blend of local spices and cheesy goodness
+
+### Common Toppings
+
+- Chicken tikka pieces
+- Onions
+- Green chilies
+- Tomatoes
+- Mozzarella and Cheddar cheese blend
