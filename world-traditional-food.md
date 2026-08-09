@@ -151,6 +151,6 @@ Thukpa can be prepared in both vegetarian and non-vegetarian variations such as 
 
 Usually includes a vibrant blend of onions, garlic, tomatoes, carrots, and fresh vegetables slowly simmered with bold spices and condiments, creating a rich, savory broth that brings pure comfort and excitement in every spoonful.
 
-<img src="images\Thukpa-3.jpg" width="350" alt="Thukpa"> 
+<img src="images/Thukpa-3.jpg" width="350" alt="Thukpa"> 
 
 ## Australia / Oceania
