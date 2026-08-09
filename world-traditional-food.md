@@ -24,10 +24,13 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [South America](#south-america)
 - [Europe](#europe)
 - [Africa](#africa)
+  - [Kenya](#kenya)
+  - [Nigeria](#nigeria)
 - [Asia](#asia)
   - [India](#india)
   - [Indonesia](#indonesia)
   - [Japan](#japan)
+  - [Pakistan](#pakistan)
   - [Philippines](#philippines)
   - [Tibet](#tibet)
 - [Australia / Oceania](#australia--oceania)
@@ -55,6 +58,16 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 ## Europe
 
 ## Africa
+
+### Kenya
+
+#### Pilau
+
+Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cuisine, particularly along the Swahili Coast. It is made by cooking rice in a rich broth seasoned with a blend of spices including cumin, coriander, cardamom, cinnamon, and black pepper. The dish is typically prepared with beef, chicken, or goat meat, and is often garnished with onions.
+
+<img src="images/pilau-kenya.jpg" width="400" alt="A plate of Kenyan Pilau spiced rice with meat">
+
+**Image source:** Dadiesto, [*African pilau dish*](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
 
 ### Nigeria
 
@@ -103,6 +116,16 @@ Ramen is a Japanese noodle soup dish that has evolved from Chinese wheat noodles
 Toppings typically include chashu (braised pork belly), soft-boiled marinated eggs (ajitsuke tamago), nori seaweed, bamboo shoots (menma), and green onions. Ramen shops (ramen-ya) are found on nearly every street corner in Japan, and many have cult followings with lines stretching around the block.
 
 While instant ramen was invented in 1958 by Momofuku Ando and spread globally, authentic shop-made ramen broth is simmered for many hours — sometimes overnight — to achieve its depth of flavor.
+
+### Pakistan
+
+#### Nihari
+
+Nihari is a rich, slow-cooked meat stew from Pakistan, often made with beef or lamb shank and bone marrow. Originally served as a hearty breakfast dish, it is famous for its deeply flavorful, spicy gravy that is traditionally cooked overnight. It is typically garnished with fresh ginger, green chilies, coriander, and a squeeze of lemon, and served hot with fresh naan.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nalli_Nihari_India.jpg/960px-Nalli_Nihari_India.jpg" width="400" alt="Nihari with naan">
+
+**Image source:** Rupamdas75, [*Nalli Nihari*](https://commons.wikimedia.org/wiki/File:Nalli_Nihari_India.jpg), CC BY-SA 4.0, via Wikimedia Commons
 
 ### Philippines
 
