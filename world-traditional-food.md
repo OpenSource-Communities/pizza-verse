@@ -32,6 +32,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [Japan](#japan)
   - [Pakistan](#pakistan)
   - [Philippines](#philippines)
+  - [Tibet](#tibet)
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
@@ -139,5 +140,17 @@ The cooking process usually involves marinating the chicken in a mixture of thes
 <img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
 
 **Image source:** Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+### Tibet 
+
+#### Thukpa 
+
+Thukpa is considered the ultimate winter comfort food, it's a traditional noodle soup that originated in Tibet and is widely considered a staple food across several countries and regions in the Himalayan belt. 
+
+Thukpa can be prepared in both vegetarian and non-vegetarian variations such as Thenthuk, Bhakhtuk and Tsapthuk.
+
+Usually includes a vibrant blend of onions, garlic, tomatoes, carrots, and fresh vegetables slowly simmered with bold spices and condiments, creating a rich, savory broth that brings pure comfort and excitement in every spoonful.
+
+<img src="images/Thukpa-3.jpg" width="350" alt="Thukpa"> 
 
 ## Australia / Oceania
