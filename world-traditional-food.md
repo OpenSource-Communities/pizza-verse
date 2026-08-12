@@ -87,6 +87,12 @@ Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe ma
 
 <img src="images/dosa.webp" width="408" alt="Normal and stuffed dosa served with sambar">
 
+#### Puran Poli
+
+Puran Poli is a traditional sweet flatbread from the Indian state of Maharashtra. It is prepared by stuffing a soft wheat flour dough with a sweet filling made from cooked chana dal (split Bengal gram), jaggery, cardamom, and nutmeg. It is commonly prepared during festivals such as Holi, Gudi Padwa, and Diwali and is often served with ghee or milk.
+
+<img src="images/Puran_Poli.png" width="400" alt="Traditional Maharashtrian Puran Poli">
+
 #### Samosa
 
 A samosa is a popular fried or baked pastry with a savory filling, often consisting of spiced potatoes, peas, and sometimes meat. Originating in the Indian subcontinent, this triangular snack is enjoyed worldwide and is a staple in Indian cuisine.
@@ -94,7 +100,6 @@ A samosa is a popular fried or baked pastry with a savory filling, often consist
 The filling of a samosa typically includes spiced potatoes, peas, and sometimes lentils or ground meat like lamb or chicken, flavored with a blend of spices such as cumin, coriander, and garam masala. Samosas are often enjoyed with dipping sauces such as tamarind chutney, mint-coriander chutney, or yogurt-based raita, which complement the spicy filling with their tangy and refreshing flavors.
 
 <img src="images/samora.jpg" width="408" alt="A delicious samosa">
-
 ### Indonesia
 
 #### Rendang
