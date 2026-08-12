@@ -38,7 +38,9 @@ We've categorized the facts into different sections to help explore the diverse 
   - Visit the [Pizza Week 2025 site](https://www.fwpublishingevents.com/pizza-week-2025).
   - The Scene holds similar weeks for hamburgers, tacos, and hot chicken. They encourage customers to tip on the original price and not the event discount rate.
 
+- Pizza Hut launched **PizzaNet** in 1994, one of the world's first online food ordering websites. Customers could order pizza through a web browser, making pizza one of the first foods ever purchased online.
 
+  **Source:** https://en.wikipedia.org/wiki/PizzaNet
 ## Pizza Trivia
 
 Delight in intriguing and lesser-known facts that will surprise and entertain you.
