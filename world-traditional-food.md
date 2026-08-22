@@ -89,6 +89,18 @@ Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe ma
 
 <img src="images/dosa.webp" width="408" alt="Normal and stuffed dosa served with sambar">
 
+#### Kulfi
+
+Kulfi is a frozen dessert made with pure full fat milk, sugar and a flavoring ingredient like cardamoms or saffron. Sometimes cream (malai), chopped nuts or fruit purees are also added to it for flavor and richness. While kulfi was perfected in the Indian subcontinent, it is said to be influenced by Persian frozen desserts and introduced in the 16th century by the Moghuls.
+
+Some consider it the Indian ice cream, it is closer to the British sherbet or a creamiscle (Popsicle with milk or cream). Ice creams are whipped or churned, so they tend to be airy and also have a higher fat content with the addition of cream and eggs.
+
+Kulfi, on the other hand, is denser and thicker as it is made by slow cooking milk on the stove top until it has reduced and thickened. If frozen too long, there will be some crystallization as there are no commercial stabilizers in this dessert. But kulfi doesn’t melt as fast as ice cream.
+
+While creamy ice-creams dominate the frozen dessert section, kulfi will never lose its charm. You’ll find it served in Indian restaurants across the world. As a treat, it is enjoyed by adults and kids, and makes for a healthier dessert (if there is such a thing) compared to cream & egg-based ice creams.
+
+<img src="images/kulfi.png" width="408" alt="Kulfi served in a plate with pistachios">
+
 #### Samosa
 
 A samosa is a popular fried or baked pastry with a savory filling, often consisting of spiced potatoes, peas, and sometimes meat. Originating in the Indian subcontinent, this triangular snack is enjoyed worldwide and is a staple in Indian cuisine.
