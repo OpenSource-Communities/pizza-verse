@@ -99,7 +99,7 @@ Kulfi, on the other hand, is denser and thicker as it is made by slow cooking mi
 
 While creamy ice-creams dominate the frozen dessert section, kulfi will never lose its charm. You’ll find it served in Indian restaurants across the world. As a treat, it is enjoyed by adults and kids, and makes for a healthier dessert (if there is such a thing) compared to cream & egg-based ice creams.
 
-<img src="images/kulfi.png" width="408" alt="Kulfi served in a glass with pistachios">
+<img src="images/kulfi.png" width="408" alt="Kulfi served in a plate with pistachios">
 
 #### Samosa
 
