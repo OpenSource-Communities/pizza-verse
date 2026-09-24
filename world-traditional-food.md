@@ -57,6 +57,18 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 
 ## Europe
 
+### Spain
+
+#### Escalivada
+
+Escalivada is a traditional dish from Catalonia, located in the north-east of Spain. It consist of a salad based on red peppers, aubergines, and onions. It's name comes from the term "escalivar", one of the oldest techniques in traditional Catalan cooking, which means to roast whole vegetables over direct heat or the embers of a fire.  
+
+After roasting vegetables until tender, they are left to cool down so they can be peeled easily. Then, they are cut into long, thin strips and simply dressed with a little salt and a good drizzle of olive oil. 
+
+Escalivada is a highly versatile and nutritious dish. It can be served warm or cold, either on its own, accompanying a good "pa amb tomaquet" or as the perfect dish for meat or fish. 
+
+<img src="./images/escalivada.jpg" width="400" alt="A plate of traditional Catalan escalivada with red peppers, aubergines and onions.">
+
 ## Africa
 
 ### Kenya
