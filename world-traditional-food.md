@@ -22,6 +22,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [El Salvador](#el-salvador)
   - [Haiti](#haiti)
 - [South America](#south-america)
+  - [Brazil](#brazil)
 - [Europe](#europe)
 - [Africa](#africa)
   - [Kenya](#kenya)
@@ -54,6 +55,14 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 <img src="./images/griot.jpg" width="400" alt="a plate of rice and beans with fried plantains and griot topped with pikliz">
  
 ## South America
+
+### Brazil
+
+#### Feijoada
+
+Feijoada is a traditional Brazilian stew made with black beans and a variety of meats, commonly including pork and beef. It is slow-cooked so that the beans and meats develop a rich, savory flavor.
+
+Feijoada is especially popular as a communal meal and is often served with white rice, collard greens, farofa (toasted cassava flour), and orange slices. It is widely considered one of Brazil's most iconic traditional dishes and is enjoyed throughout the country.
 
 ## Europe
 

@@ -18,6 +18,8 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Sisig Pizza](#sisig-pizza)
 - [Butter Chicken Pizza](#butter-chicken-pizza)
 - [Homemade Vegetarian Pizza](#homemade-vegetarian-pizza)
+- [Classic Margherita Pizza](#classic-margherita-pizza)
+- [Detroit-Style Pizza](#detroit-style-pizza)
 
 
 ### Margherita Pizza
@@ -480,7 +482,7 @@ Post-bake, crown your creation with a drizzle of the balsamic glaze, ensuring ev
 **Serve:**
 Slice and serve the Savory Pear and Gorgonzola Pizza immediately, allowing the contrasting temperatures and flavors to captivate your senses. Each bite is a journey through the layers of sweetness, creaminess, and crunch, creating a pizza experience like no other.
 
-![image](https://github.com/DevJSter/pizza-verse/assets/115056248/5a074ee6-c7be-47ed-84ed-c5d8c0490706)
+![image](https://github.com/DevJSter/pizza-verse/assets/115056248/5a0746ee-c7be-47ed-84ed-c5d8c0490706)
 
 #### Conclusion
 
@@ -762,3 +764,47 @@ A simple, iconic Neapolitan pizza using just three toppings representing the col
 - Use a hot pizza stone for the best crust — it mimics a brick oven
 - Less is more: don't overload the sauce or the crust will get soggy
 - Fresh mozzarella has more moisture than low-moisture; pat it dry before using
+
+## Detroit-Style Pizza
+
+Detroit-style pizza is known for its thick, airy crust, rectangular shape, and crispy, caramelized cheese edges. The cheese is traditionally spread all the way to the edges of the pan, creating a distinctive crispy crust around the pizza. Tomato sauce is often added in strips over the toppings after baking.
+
+### Ingredients
+
+- 1 pound pizza dough
+- 8 ounces brick cheese or mozzarella, cut into small cubes
+- 1/2 cup pizza sauce or crushed tomatoes
+- 1/2 cup sliced pepperoni
+- 1 tablespoon olive oil
+- 1/2 teaspoon dried oregano
+- Salt to taste
+
+### Instructions
+
+1. Preheat the oven to 500°F (260°C).
+
+2. Coat a rectangular baking pan with olive oil.
+
+3. Stretch the pizza dough into the pan, pressing it toward the edges. If the dough springs back, let it rest for 10 minutes before stretching again.
+
+4. Cover the dough and let it rest for 30 minutes.
+
+5. Spread the cubed cheese evenly over the dough, pushing some of the cheese all the way to the edges of the pan.
+
+6. Arrange the pepperoni over the cheese.
+
+7. Bake for 12-15 minutes, or until the cheese around the edges is deeply browned and the crust is golden.
+
+8. Carefully loosen the edges of the pizza from the pan.
+
+9. Spoon the pizza sauce in 2-3 strips across the top of the baked pizza.
+
+10. Sprinkle the dried oregano and salt over the pizza.
+
+11. Let the pizza cool slightly, then cut it into rectangular pieces and serve.
+
+### Pro-Tips
+
+- A dark metal pan can help create crispier, caramelized cheese edges.
+- Brick cheese is traditionally used for Detroit-style pizza, but mozzarella can be used as a substitute.
+- Detroit-style pizza traditionally has the sauce added on top after baking.

@@ -2,7 +2,7 @@
 
 Welcome to the Pizza facts and trivia section of our repo! 🍕📚
 
-We've categorized the facts into different sections to help explore the diverse world of pizza knowledge. If you have a fun pizza fact or trivia to share, feel free to contribute to this repository and help us expand our collection!
+We've categorized the facts into different sections to help explore the diverse world of pizza knowledge. If you have a fun pizza fact or trivia to share, feel free to contribute to this repository and help us expand our collection! 🍕
 
 ## Pizza Fun Facts
 
@@ -37,6 +37,7 @@ We've categorized the facts into different sections to help explore the diverse 
   - Readers vote on their favorites in three categories: Best Overall Pizza, Best Traditional Pizza, and Most Creative Pizza.
   - Visit the [Pizza Week 2025 site](https://www.fwpublishingevents.com/pizza-week-2025).
   - The Scene holds similar weeks for hamburgers, tacos, and hot chicken. They encourage customers to tip on the original price and not the event discount rate.
+- Detroit-style pizza originated in Detroit, Michigan, and is known for its rectangular shape, thick airy crust, and crispy edges formed by baking cheese directly against the sides of the pan. The style became associated with Buddy's Rendezvous, where the pizza was first served in 1946.
 
 
 ## Pizza Trivia

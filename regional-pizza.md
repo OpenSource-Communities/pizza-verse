@@ -112,3 +112,35 @@ Chicken Tikka Pizza is a hugely popular fusion pizza in Pakistan that combines t
 - Green chilies
 - Tomatoes
 - Mozzarella and Cheddar cheese blend
+
+## Chicago Deep-Dish Pizza
+
+Chicago deep-dish pizza is one of the most recognizable regional pizza styles in the United States. It originated in Chicago and is known for its tall, buttery crust and deep baking dish, which allows for generous layers of cheese, toppings, and tomato sauce.
+
+### Key Characteristics
+
+- Deep, thick crust: The crust is pressed into a deep round pan and forms a raised edge around the pizza.
+
+- Layered toppings: Cheese is typically placed directly on the crust, followed by meat and other toppings.
+
+- Tomato sauce on top: Unlike many other pizza styles, the tomato sauce is usually spread over the cheese and toppings.
+
+- Pie-like slices: Because of its thickness and structure, deep-dish pizza is served in smaller, substantial slices.
+
+### Common Toppings
+
+- Mozzarella cheese
+
+- Italian sausage
+
+- Pepperoni
+
+- Mushrooms
+
+- Onions
+
+- Green peppers
+
+- Tomato sauce
+
+Chicago deep-dish pizza is baked in a deep pan and is designed to be eaten with a knife and fork. Its rich layers and thick crust make it very different from thin-crust regional styles such as New York and New Haven pizza.
