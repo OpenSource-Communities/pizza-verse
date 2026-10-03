@@ -112,3 +112,21 @@ Chicken Tikka Pizza is a hugely popular fusion pizza in Pakistan that combines t
 - Green chilies
 - Tomatoes
 - Mozzarella and Cheddar cheese blend
+
+## Chicago Deep-Dish Pizza
+
+Chicago deep-dish pizza is a Midwestern American style baked in a tall, round, straight-sided pan, so it eats more like a savory pie than a flat pizza. It is commonly traced to Pizzeria Uno, which opened in Chicago in 1943.
+
+### Key Characteristics
+
+- A buttery, slightly crisp crust pressed up the sides of a deep, well-oiled pan
+- Reversed layering: cheese goes on the dough first, then the toppings, with the sauce spooned over the top
+- A long bake of 30 to 45 minutes, so it is usually eaten with a knife and fork
+
+### Common Toppings
+
+- Sliced mozzarella
+- Italian sausage
+- Chunky crushed tomato sauce
+- Mushrooms, onions and green peppers
+- Grated Parmesan
