@@ -23,6 +23,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [Haiti](#haiti)
 - [South America](#south-america)
 - [Europe](#europe)
+  - [Spain](#spain)
 - [Africa](#africa)
   - [Kenya](#kenya)
   - [Nigeria](#nigeria)
