@@ -23,6 +23,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [Haiti](#haiti)
 - [South America](#south-america)
 - [Europe](#europe)
+  - [Italy](#italy)
   - [Spain](#spain)
 - [Africa](#africa)
   - [Kenya](#kenya)
@@ -58,6 +59,16 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 ## South America
 
 ## Europe
+
+### Italy
+
+#### Arancini
+
+Arancini are golden, deep-fried rice balls from Sicily. Leftover risotto, often flavored with saffron, is shaped around a filling, coated in breadcrumbs and fried until crisp outside and creamy inside. The name means "little oranges" in Italian, after their round shape and color. A classic filling is a slow-cooked meat ragù with peas and mozzarella, and a popular alternative is butter and ham. They are a staple of Sicilian street food and are traditionally eaten on St. Lucy's Day, 13 December.
+
+<img src="images/arancini.jpg" width="400" alt="A bowl of golden fried Sicilian arancini rice balls">
+
+**Image source:** Gmelfi, [*Arancini 002*](https://commons.wikimedia.org/wiki/File:Arancini_002.jpg), Public Domain, via Wikimedia Commons
 
 ### Spain
 
