@@ -18,6 +18,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Sisig Pizza](#sisig-pizza)
 - [Butter Chicken Pizza](#butter-chicken-pizza)
 - [Homemade Vegetarian Pizza](#homemade-vegetarian-pizza)
+- [Pizza Marinara](#pizza-marinara)
 
 
 ### Margherita Pizza
@@ -762,3 +763,32 @@ A simple, iconic Neapolitan pizza using just three toppings representing the col
 - Use a hot pizza stone for the best crust — it mimics a brick oven
 - Less is more: don't overload the sauce or the crust will get soggy
 - Fresh mozzarella has more moisture than low-moisture; pat it dry before using
+
+## Pizza Marinara
+
+One of the two classic Neapolitan pizzas, along with the Margherita. It has no cheese at all, just tomato, garlic, oregano and good olive oil, so it is also naturally dairy-free and vegan.
+
+### Ingredients
+
+- Pizza dough (store-bought or homemade)
+- 1/2 cup San Marzano crushed tomatoes
+- 2 cloves garlic, thinly sliced
+- 1 tsp dried oregano
+- 2 tbsp extra virgin olive oil
+- Salt to taste
+
+### Instructions
+
+- Preheat oven to 500°F (or as high as it goes) with a pizza stone or baking sheet inside
+- Stretch dough into a thin round on a floured surface
+- Stir a pinch of salt into the crushed tomatoes and spread them over the dough, leaving a 1-inch border
+- Scatter the garlic slices over the sauce and sprinkle with oregano
+- Drizzle with half of the olive oil
+- Slide onto the hot stone and bake 8-10 minutes until the crust is golden and charred in spots
+- Finish with a drizzle of the remaining olive oil and serve right away
+
+### Pro-Tips
+
+- Slice the garlic thinly rather than mincing it, so it softens instead of burning
+- Add the oregano before baking so it releases its flavor into the sauce
+- Use the best olive oil you have, since it is one of only a few ingredients
