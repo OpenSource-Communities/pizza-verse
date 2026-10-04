@@ -38,6 +38,7 @@ We've categorized the facts into different sections to help explore the diverse 
   - Visit the [Pizza Week 2025 site](https://www.fwpublishingevents.com/pizza-week-2025).
   - The Scene holds similar weeks for hamburgers, tacos, and hot chicken. They encourage customers to tip on the original price and not the event discount rate.
 
+- Authentic Neapolitan pizza has its own protected status in Europe. In 2010, the European Union registered "Pizza Napoletana" as a Traditional Specialty Guaranteed (TSG), which sets rules for the dough, the toppings and the wood-fired baking, including a bake of about 60 to 90 seconds.
 
 ## Pizza Trivia
 
