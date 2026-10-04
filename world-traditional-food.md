@@ -28,6 +28,7 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [Kenya](#kenya)
   - [Nigeria](#nigeria)
 - [Asia](#asia)
+  - [Bangladesh](#bangladesh)
   - [India](#india)
   - [Indonesia](#indonesia)
   - [Japan](#japan)
@@ -93,6 +94,21 @@ Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cu
 **Image source:** shola oshinowo, [*Amala with Ewedu*](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Asia
+
+### Bangladesh
+
+#### Mezban (Mezbani Mangsho)
+
+**Mezban** (locally referred to as **Mejjani**) is a historic, highly celebrated traditional beef dish originating from the **Chattogram** district of Bangladesh. The dish is traditionally served during grand communal feasts, also named **Mezban**, which are organized to celebrate special milestones, religious festivals, or to honor the memory of loved ones. It is distinctively characterized by its rich, dark color and an intense explosion of hot, aromatic spices.
+
+**Interesting Facts:**
+* **The Secret Spice:** The authentic flavor relies on a unique local spice profile that mandates the use of mustard oil and a rare wild celery seed spice known locally as **Radhuni**.
+* **Open House Tradition:** True to Chattogram hospitality, traditional Mezban feasts are completely open to the public; anyone from any social background can walk in and enjoy the feast for free.
+* **The Perfect Pairing:** Mezban beef is traditionally paired with piping hot plain white rice, *Chonar Dal* (spiced Bengal gram lentil curry cooked with beef bones), and *Nola Kanchi* (a rich, sour beef bone marrow broth).
+
+<img src="./images/mezban.jpg" width="400" alt="Traditional Bangladeshi Mezban Beef">
+
+**Image source:** Sm faysal, [*Mezbani meal from a famous restaurant in Chittagong Bangladesh*](https://commons.wikimedia.org/wiki/File:Mezbani_meal_from_a_famous_restaurant_in_Chittagong_Bangladesh.jpg), CC BY-SA 4.0, via Wikimedia Commons
 
 ### India
 
