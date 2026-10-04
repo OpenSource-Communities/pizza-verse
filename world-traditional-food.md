@@ -23,10 +23,12 @@ If your hometown or country has a traditional food (especially if it's your favo
   - [Haiti](#haiti)
 - [South America](#south-america)
 - [Europe](#europe)
+  - [Spain](#spain)
 - [Africa](#africa)
   - [Kenya](#kenya)
   - [Nigeria](#nigeria)
 - [Asia](#asia)
+  - [Bangladesh](#bangladesh)
   - [India](#india)
   - [Indonesia](#indonesia)
   - [Japan](#japan)
@@ -57,6 +59,18 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 
 ## Europe
 
+### Spain
+
+#### Escalivada
+
+Escalivada is a traditional dish from Catalonia, located in the north-east of Spain. It consist of a salad based on red peppers, aubergines, and onions. It's name comes from the term "escalivar", one of the oldest techniques in traditional Catalan cooking, which means to roast whole vegetables over direct heat or the embers of a fire.  
+
+After roasting vegetables until tender, they are left to cool down so they can be peeled easily. Then, they are cut into long, thin strips and simply dressed with a little salt and a good drizzle of olive oil. 
+
+Escalivada is a highly versatile and nutritious dish. It can be served warm or cold, either on its own, accompanying a good "pa amb tomaquet" or as the perfect dish for meat or fish. 
+
+<img src="./images/escalivada.jpg" width="400" alt="A plate of traditional Catalan escalivada with red peppers, aubergines and onions.">
+
 ## Africa
 
 ### Kenya
@@ -80,6 +94,21 @@ Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cu
 **Image source:** shola oshinowo, [*Amala with Ewedu*](https://en.wikipedia.org/wiki/File:Amala_with_Ewedu.jpg), CC BY-SA 4.0, via Wikimedia Commons License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Asia
+
+### Bangladesh
+
+#### Mezban (Mezbani Mangsho)
+
+**Mezban** (locally referred to as **Mejjani**) is a historic, highly celebrated traditional beef dish originating from the **Chattogram** district of Bangladesh. The dish is traditionally served during grand communal feasts, also named **Mezban**, which are organized to celebrate special milestones, religious festivals, or to honor the memory of loved ones. It is distinctively characterized by its rich, dark color and an intense explosion of hot, aromatic spices.
+
+**Interesting Facts:**
+* **The Secret Spice:** The authentic flavor relies on a unique local spice profile that mandates the use of mustard oil and a rare wild celery seed spice known locally as **Radhuni**.
+* **Open House Tradition:** True to Chattogram hospitality, traditional Mezban feasts are completely open to the public; anyone from any social background can walk in and enjoy the feast for free.
+* **The Perfect Pairing:** Mezban beef is traditionally paired with piping hot plain white rice, *Chonar Dal* (spiced Bengal gram lentil curry cooked with beef bones), and *Nola Kanchi* (a rich, sour beef bone marrow broth).
+
+<img src="./images/mezban.jpg" width="400" alt="Traditional Bangladeshi Mezban Beef">
+
+**Image source:** Sm faysal, [*Mezbani meal from a famous restaurant in Chittagong Bangladesh*](https://commons.wikimedia.org/wiki/File:Mezbani_meal_from_a_famous_restaurant_in_Chittagong_Bangladesh.jpg), CC BY-SA 4.0, via Wikimedia Commons
 
 ### India
 
