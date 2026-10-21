@@ -184,7 +184,7 @@ Papeda is a traditional staple food from Eastern Indonesia, particularly popular
 - Keep stirring until the mixture turns clear, translucent, and forms a thick, sticky porridge.
 - Serve immediately by rolling the Papeda using wooden sticks (*gata-gata*) into a bowl containing Yellow Spice Fish Soup.
 
-<img src="https://raw.githubusercontent.com/Virtual-Coffee/pizza-verse/main/images/papeda.jpg" width="408" alt="A delicious Papeda">
+<img src="images/papeda.jpg" width="408" alt="A delicious Papeda">
 
 ### Sources
 - ![Papeda dan Ikan Kuah Kuning: Kuliner Kaki Lima Lezat dari Papua - Indonesia Kaya](https://indonesiakaya.com/pustaka-indonesia/papeda-dan-ikan-kuah-kuning-kuliner-kaki-lima-lezat-dari-papua/)
