@@ -164,8 +164,8 @@ Rendang is traditionally served at ceremonial occasions to honour guests during 
 Serabi is a traditional Indonesian street snack, resembling a small, thick pancake. It is made from rice flour (or a blend containing wheat flour) and coconut milk. Serabi is cooked in small clay molds or pans over a charcoal or wood-fired stove, which imparts a distinctive aroma.
 
 **Popular Varieties of Serabi:**
-* **Serabi Solo:** Thinner and softer, with crispy edges. The batter is mixed with coconut milk. Often rolled in a banana leaf and topped with chocolate or chocolate sprinkles.
-* **Serabi Bandung:** Thicker and fluffier in texture. Served with a sauce made from palm sugar and thin coconut milk. Available with savory toppings, such as *oncom* (fermented soy cake) or egg.
+- **Serabi Solo:** Thinner and softer, with crispy edges. The batter is mixed with coconut milk. Often rolled in a banana leaf and topped with chocolate or chocolate sprinkles.
+- **Serabi Bandung:** Thicker and fluffier in texture. Served with a sauce made from palm sugar and thin coconut milk. Available with savory toppings, such as *oncom* (fermented soy cake) or egg.
 
 <img src="images/Serabi.jpg" width="400" alt="serabi indonesian food">
 
