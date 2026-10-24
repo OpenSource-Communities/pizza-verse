@@ -151,6 +151,28 @@ The filling of a samosa typically includes spiced potatoes, peas, and sometimes 
 
 ### Indonesia
 
+#### Papeda
+
+Papeda is a traditional staple food from Eastern Indonesia, particularly popular in Maluku and Papua. Made from sago starch, it has a distinctive gelatinous and sticky texture. It is usually served alongside yellow fish soup (*Ikan Kuah Kuning*) and fresh spices.
+
+**Ingredients:**
+
+- 300g pure sago starch
+- Cold water (to dissolve the starch)
+- 1 liter boiling water
+- Salt and lime juice (to taste)
+
+**Preparation:**
+
+Dissolve the sago starch with a little cold water in a heatproof bowl. Add a pinch of salt and lime juice.
+Slowly pour in the boiling water while stirring rapidly in one direction.
+Continue stirring until the mixture becomes clear, translucent, and forms a thick, sticky porridge.
+Serve immediately by rolling the Papeda using wooden sticks (*gata-gata*) into a bowl of Yellow Fish Soup.
+
+<img src="images/papeda.jpg" width="408" alt="A delicious Papeda">
+
+**Image source:** indonesiakaya.com, [*indonesiakaya*](https://indonesiakaya.com/pustaka-indonesia papeda-ikan-kuah-kuning-kuliner-kaki-lima-lezat-dari-papua/), indonesiakaya
+
 #### Rendang
 
 Rendang is a dish that originated in West Sumatra, Indonesia. It is a rich meat-based dish that is slow-cooked, braised in coconut milk, and seasoned with herb and spice mixture over a period of several hours. As the liquids evaporate, the meat turns dark brown and tender, caramelizing and infusing it with rich flavours.
@@ -158,36 +180,6 @@ Rendang is a dish that originated in West Sumatra, Indonesia. It is a rich meat-
 Rendang is traditionally served at ceremonial occasions to honour guests during festive events, such as wedding feasts and Lebaran (Indonesian popular words for both Eid al-Fitr and Eid al-Adha).
 
 <img src="https://indonesiakaya.com/wp-content/uploads/2023/04/ren_Artboard_4.jpg" width="400" alt="rendang indonesian food">
-
-
-
-#### Papeda
-
-- **Origin:** Maluku and Papua, Indonesia
-- **Category:** Traditional Staple Food
-
-#### Description
-
-Papeda is a traditional staple food from Eastern Indonesia, particularly popular in Maluku and Papua. Made from sago starch flour, Papeda has a unique gelatinous, sticky, and translucent texture similar to glue. It is typically served hot alongside *Ikan Kuah Kuning* (Yellow Spice Fish Soup), where the savory, tangy fish broth complements the neutral taste of the sago porridge.
-
-#### Ingredients
-
-- 300g pure sago starch flour
-- Cold water (to dissolve the starch)
-- 1 liter boiling water
-- Salt and lime juice (to taste)
-
-#### Preparation
-
-- Dissolve the sago starch with a small amount of cold water in a heatproof bowl. Add a pinch of salt and lime juice.
-- Pour boiling water slowly into the sago mixture while continuously and rapidly stirring in one direction.
-- Keep stirring until the mixture turns clear, translucent, and forms a thick, sticky porridge.
-- Serve immediately by rolling the Papeda using wooden sticks (*gata-gata*) into a bowl containing Yellow Spice Fish Soup.
-
-<img src="images/papeda.jpg" width="408" alt="A delicious Papeda">
-
-#### Source
-**Image source:** indonesiakaya.com, [*indonesiakaya*](https://indonesiakaya.com/pustaka-indonesia/papeda-ikan-kuah-kuning-kuliner-kaki-lima-lezat-dari-papua/), indonesiakaya
 
 ### Japan
 
