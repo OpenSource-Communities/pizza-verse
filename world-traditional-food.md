@@ -151,6 +151,28 @@ The filling of a samosa typically includes spiced potatoes, peas, and sometimes 
 
 ### Indonesia
 
+#### Papeda
+
+Papeda is a traditional staple food from Eastern Indonesia, particularly popular in Maluku and Papua. Made from sago starch, it has a distinctive gelatinous and sticky texture. It is usually served alongside yellow fish soup (*Ikan Kuah Kuning*) and fresh spices.
+
+**Ingredients:**
+
+- 300g pure sago starch
+- Cold water (to dissolve the starch)
+- 1 liter boiling water
+- Salt and lime juice (to taste)
+
+**Preparation:**
+
+Dissolve the sago starch with a little cold water in a heatproof bowl. Add a pinch of salt and lime juice.
+Slowly pour in the boiling water while stirring rapidly in one direction.
+Continue stirring until the mixture becomes clear, translucent, and forms a thick, sticky porridge.
+Serve immediately by rolling the Papeda using wooden sticks (*gata-gata*) into a bowl of Yellow Fish Soup.
+
+<img src="images/papeda.jpg" width="408" alt="A delicious Papeda">
+
+**Image source:** [indonesiakaya.com](https://indonesiakaya.com/pustaka-indonesia/papeda-ikan-kuah-kuning-kuliner-kaki-lima-lezat-dari-papua/)
+
 #### Rendang
 
 Rendang is a dish that originated in West Sumatra, Indonesia. It is a rich meat-based dish that is slow-cooked, braised in coconut milk, and seasoned with herb and spice mixture over a period of several hours. As the liquids evaporate, the meat turns dark brown and tender, caramelizing and infusing it with rich flavours.
