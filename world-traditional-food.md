@@ -171,7 +171,7 @@ Serve immediately by rolling the Papeda using wooden sticks (*gata-gata*) into a
 
 <img src="images/papeda.jpg" width="408" alt="A delicious Papeda">
 
-**Image source:** indonesiakaya.com, [*indonesiakaya*](https://indonesiakaya.com/pustaka-indonesia papeda-ikan-kuah-kuning-kuliner-kaki-lima-lezat-dari-papua/), indonesiakaya
+**Image source:** [indonesiakaya.com](https://indonesiakaya.com/pustaka-indonesia/papeda-ikan-kuah-kuning-kuliner-kaki-lima-lezat-dari-papua/)
 
 #### Rendang
 
