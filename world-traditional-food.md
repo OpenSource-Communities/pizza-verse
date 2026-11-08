@@ -82,6 +82,16 @@ Escalivada is a highly versatile and nutritious dish. It can be served warm or c
 
 <img src="./images/escalivada.jpg" width="400" alt="A plate of traditional Catalan escalivada with red peppers, aubergines and onions.">
 
+#### Trinxat de la Cerdanya
+
+Trinxat is a traditional dish from Catalonia, located in northeastern Spain. It is highly popular in the Pyrenean regions of Cerdanya and Alt Urgell. It is a winter recipe, perfect for the season in which this PR is being published. Its main ingredients are cabbag, potatoes, and pork belly (cansalada), making it a hearty dish designed to warm the body and make the most of seasonal produce. 
+
+To prepare it, potatoes and cabbage are boiled, drained well, mashed together, and sautéed in a pan with garlic and pork fat. Finally, the dish is crowned with crispy fried pork belly on top. 
+
+It's name comes from the Catalan verb trinxar, which means to chop, mash, or shred the main ingredients. The name perfectly describes its preparation and texture. It is usually served as a starter, although given how hearty it is, it works perfectly as a main first course. 
+
+<img src="./images/trinxat.jpeg" width="400" alt="A plate of traditional Catalan Trinxat de la Cerdanya with potatoes, cabbage, and crispy pork belly.">
+
 ## Africa
 
 ### Kenya
